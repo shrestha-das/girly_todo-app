@@ -1,1 +1,1 @@
-### A cute Aesthetically pinkish Todo App!
+### An aesthetically pinkish Todo App!
